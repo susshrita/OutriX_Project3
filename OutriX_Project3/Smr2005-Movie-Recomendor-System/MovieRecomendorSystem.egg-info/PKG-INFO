@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: MovieRecomendorSystem
+Version: 0.0.1
+Author: Shaik Sameer
+Author-email: shaiksameershubhan@gmail.com
+Requires-Dist: setuptools
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
