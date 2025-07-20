@@ -19,8 +19,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='MovieRecomendorSystem',
 version='0.0.1',
-author='Sukanta Chowdhury',
-author_email='sukantachowdhury850@gmail.com',
+author='Susshrita Jana',
+author_email='susshritajana@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
